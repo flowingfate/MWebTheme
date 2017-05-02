@@ -1,0 +1,85 @@
+# Styles using 'Solarized' color scheme
+# by Ethan Schoonover: http://ethanschoonover.com/solarized
+# 
+# (light background version)
+
+editor
+foreground: 586e75 # base01
+background: FFFEF9 # base3
+caret: 000000
+
+H1
+foreground: 3446DF # violet
+font-style: bold
+font-size: 24
+
+H2
+foreground: 3446DF # violet
+font-style: bold
+font-size: 21
+
+H3
+foreground: 3446DF # violet
+font-style: bold
+font-size: 18
+
+H4
+foreground: 268bd2 # blue
+font-style: bold
+
+H5
+foreground: 268bd2 # blue
+font-style: bold
+
+H6
+foreground: 268bd2 # blue
+font-style: bold
+
+HRULE
+foreground: 586e75 # base01
+
+LIST_BULLET
+foreground: D8114D # yellow
+
+LIST_ENUMERATOR
+foreground: D8114D # yellow
+
+LINK
+foreground: 2aa198 # cyan
+
+AUTO_LINK_URL
+foreground: 2aa198 # cyan
+
+AUTO_LINK_EMAIL
+foreground: 2aa198 # cyan
+
+IMAGE
+foreground: d33682 # magenta
+
+REFERENCE
+foreground: 80b58900 # yellow, reduced alpha
+
+CODE
+foreground: F5710D # green
+# background: D7E8F2
+
+EMPH
+foreground: cb4b16 # orange
+font-style: italic
+
+STRONG
+foreground: 1DAF49 # red
+font-style: bold
+
+HTML_ENTITY
+foreground: 6c71c4 # violet
+
+COMMENT
+foreground: 93a1a1 # base1
+
+VERBATIM
+foreground: 859900 # green
+
+BLOCKQUOTE
+foreground: d33682 # magenta
+
